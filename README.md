@@ -1,3 +1,4 @@
 # Wireless-Intrusion-Detection-System-WIDS-
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Karthikkkunal/Wireless-Intrusion-Detection-System-WIDS-)
+# Deployed at Netlify : 
+https://fabulous-dieffenbachia-9d3a55.netlify.app/
